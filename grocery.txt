@@ -1,0 +1,2 @@
+Apple|3
+Watermelon|2
