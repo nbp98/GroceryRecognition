@@ -4,9 +4,9 @@
 # DATE CREATED: NOV 2019
 ########################################################################
 
-# Usage example:  python main.py --list=grocery.txt --video=test.mp4
-#                 python main.py --list=grocery.txt --image=test.jpg
-#                 python main.py --list=grocery.txt
+# Usage example:  python3 main.py --list=grocery.txt --video=test.mp4
+#                 python3 main.py --list=grocery.txt --image=test.jpg
+#                 python3 main.py --list=grocery.txt
 
 # Import standard packages
 import colorsys
