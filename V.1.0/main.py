@@ -4,9 +4,9 @@
 # DATE CREATED: NOV 2019
 ########################################################################
 
-# Usage example:  python main.py --list=grocery.txt --video=test.mp4     <--VIDEO
-#                 python main.py --list=grocery.txt --image=test.jpg     <--IMAGE
-#                 python main.py --list=grocery.txt                      <--WEBCAM
+# Usage example:  python3 main.py --list=grocery.txt --video=test.mp4     <--VIDEO
+#                 python3 main.py --list=grocery.txt --image=test.jpg     <--IMAGE
+#                 python3 main.py --list=grocery.txt                      <--WEBCAM
 
 
 # Import computer vision package
